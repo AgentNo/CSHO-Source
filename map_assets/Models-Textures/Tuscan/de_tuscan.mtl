@@ -1,0 +1,294 @@
+# kano_stucco1b
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_0.tga
+
+# kano_stucco2d
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_1.tga
+
+# kano_stucco2e
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_2.tga
+
+# kano_stone1b
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_3.tga
+
+# kano_canvas1a
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_4.tga
+
+# kano_stucco6b
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_5.tga
+
+# kano_stucco6d
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_6.tga
+
+# kano_stucco6e
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_7.tga
+
+# kano_window1b
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_8.tga
+
+# kano_path1a
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_9.tga
+
+# kano_wood1b
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_10.tga
+
+# kano_path1e
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_11.tga
+
+# kano_path1g
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_12.tga
+
+# kano_wood1a
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_13.tga
+
+# kano_door1a
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_14.tga
+
+# kano_tile1a
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_15.tga
+
+# kano_stucco6f
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_16.tga
+
+# kano_path1f
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_17.tga
+
+# kano_path1c
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_18.tga
+
+# kano_stucco6a
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_19.tga
+
+# kano_stucco1c
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_20.tga
+
+# kano_window3a
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_21.tga
+
+# kano_stone1a
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_22.tga
+
+# kano_crate1a
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_23.tga
+
+# kano_stucco4b
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_24.tga
+
+# kano_stucco5a
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_25.tga
+
+# kano_stucco1a
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_26.tga
+
+# kano_stucco4c
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_27.tga
+
+# kano_crate1c
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_28.tga
+
+# kano_crate1b
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_29.tga
+
+# kano_window1a
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_30.tga
+
+# kano_path1b
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_31.tga
+
+# logo_brutesmaps
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_32.tga
+
+# kano_plaster1a
+newmtl material_33
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_33.tga
+
+# kano_stucco2a
+newmtl material_34
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_34.tga
+
+# kano_window2a
+newmtl material_35
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_35.tga
+
+# kano_bomb_site1
+newmtl material_36
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_36.tga
+
+# kano_bomb_site2
+newmtl material_37
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_37.tga
+
+# {kano_railing1a
+newmtl material_38
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_38.tga
+
+# {blue
+newmtl material_39
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_39.tga
+
+# {kano_ladder1a
+newmtl material_40
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_40.tga
+
+# {kano_clothes1a
+newmtl material_41
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_41.tga
+
+# {kano_clothes1c
+newmtl material_42
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_42.tga
+
+# {kano_clothes1b
+newmtl material_43
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_43.tga
+
+# {kano_rug1a
+newmtl material_44
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_44.tga
+
+# kano_light1b
+newmtl material_45
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_45.tga
+
+# logo_cevo1b
+newmtl material_46
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_46.tga
+
+# logo_cevo1c
+newmtl material_47
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_47.tga
+
+# {kano_grass1b
+newmtl material_48
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd de_tuscan_material_48.tga
+
