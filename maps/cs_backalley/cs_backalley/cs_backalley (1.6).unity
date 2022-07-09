@@ -1725,7 +1725,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1534fea5c132a8e4f9963dad45560c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sectionIdentifier: 1
+  sectionIdentifier: 2
   sectionName: T Start
   sectionType: 0
   spawnSectionSubType: 0
@@ -14203,7 +14203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1534fea5c132a8e4f9963dad45560c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sectionIdentifier: 2
+  sectionIdentifier: 1
   sectionName: CT Start
   sectionType: 0
   spawnSectionSubType: 0
