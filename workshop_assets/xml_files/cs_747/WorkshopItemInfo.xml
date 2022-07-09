@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2442020077</PublishedFileId>
+  <Name>cs_747 (1.6)</Name>
+  <Description>The 1.6 version of cs_747, ported to [i]Holdfast: Nations at War[/i]!
+
+cs_747 was one of the first hostage rescue maps, first appearing in the 2000 beta and subsequently re-appearing in [i]1.6[/i] and [i]Condition Zero[/i]. Although unofficial ports exist for later games, it have never received an official port.
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working hostage objectives. To capture a hostage, play as CT and hold 'E' on the objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28148/]cs_747 model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.1.12[/h3]
+- Added a missing light to the right of CT Start
+- Added a missing collider near lower CT exit to runway
+- Added Army Assault 
+- Added clipping to CT stairs to prevent zoomies
+- Fixed multiple collision issues on crates around the map</Description>
+  <IconFileName>cs_747.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Assault</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>

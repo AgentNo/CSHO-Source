@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2461540045</PublishedFileId>
+  <Name>de_dust (1.6)</Name>
+  <Description>The 1.6 version of de_dust, ported to [i]Holdfast: Nations at War[/i]!
+
+de_dust was one of the first and largest defuse maps, first appearing in the [i]1.6 beta[/i] and subsequently re-appearing in every game since. It was later succeeded by de_dust2, but still remains an iconic map of the series.
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28161/]de_dust model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.9[/h3]
+- Fixed a collider poking through a wall at B/CT Start</Description>
+  <IconFileName>de_dust.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>

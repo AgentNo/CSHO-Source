@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2831027030</PublishedFileId>
+  <Name>de_tuscan (1.6)</Name>
+  <Description>The 1.6 version of de_tuscan, ported to [i]Holdfast: Nations at War[/i]!
+
+de_tuscan was not a vanilla map for 1.6 - it was originally designed and released by Brute as a mod map, and remastered for [i]Source[/i]. 
+It was made to create a free version of the existing cp_mill map, and became one of the most popular modded maps.
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
+
+[url=https://gamebanana.com/mods/85281]de_tuscan map courtesy of Brute.[/url] Ported to Holdfast by Spammy McJunkmail.
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.4[/h3]
+- Fixed an issue where certain child components were not on the terrain layer and thus limited movement</Description>
+  <IconFileName>de_tuscan.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>

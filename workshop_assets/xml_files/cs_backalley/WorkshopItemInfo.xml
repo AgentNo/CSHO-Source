@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2455363876</PublishedFileId>
+  <Name>cs_backalley (1.6)</Name>
+  <Description>The 1.6 version of cs_backalley, ported to [i]Holdfast: Nations at War[/i]!
+
+cs_backalley was one of the first hostage rescue maps, first appearing in the 2000 beta and subsequently re-appearing in [i]1.6[/i], and [i]Condition Zero[/i]. A remastered version was briefly added to [i]Global Offensive[/i] as part of Operation Vanguard.
+
+Supports Army Battlefield, Army Assault Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working hostage objectives. To capture a hostage, play as CT and hold 'E' on the objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28150/]cs_backalley model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.8[/h3]
+- Added Army Assault
+- Adjusted brightness of some lights near CT spawn
+- Removed an unused light asset</Description>
+  <IconFileName>cs_backalley.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Assault</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>
