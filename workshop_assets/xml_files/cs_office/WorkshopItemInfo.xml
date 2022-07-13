@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2497055633</PublishedFileId>
+  <Name>cs_office (1.6)</Name>
+  <Description>The 1.6 version of cs_office, ported to [i]Holdfast: Nations at War[/i]!
+
+cs_office is of the most iconic hostage rescue map, first appearing in [i]1.6[/i] and re-appearing in every game since. It has underwent major graphical and gameplay overhauls, but still remains a popular map.
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working hostage objectives. To capture a hostage, play as CT and hold 'E' on the objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28155/]cs_office model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.8[/h3]
+- Fixed chair collider so players don't clip through the chair</Description>
+  <IconFileName>cs_office.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Assault</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>
