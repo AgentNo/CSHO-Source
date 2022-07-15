@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2460225321</PublishedFileId>
+  <Name>de_cbble (1.6)</Name>
+  <Description>The 1.6 version of de_cbble, ported to [i]Holdfast: Nations at War[/i]!
+
+de_cbble was one of the first and largest defuse maps, first appearing in the [i]1.6 beta[/i] and subsequently re-appearing in every game since. It has underwent significant redesign in later games, but still remains a firm favourite.
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28159/]de_cbble model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.8[/h3]
+- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side</Description>
+  <IconFileName>de_cbble.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>
