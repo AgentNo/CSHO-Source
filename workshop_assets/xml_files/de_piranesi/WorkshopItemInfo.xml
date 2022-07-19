@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2505626269</PublishedFileId>
+  <Name>de_piranesi (1.6)</Name>
+  <Description>The 1.6 version of de_piranesi, ported to [i]Holdfast: Nations at War[/i]!
+
+de_piranesa was first added in 1.6, and has subsequently appeared in every major CS game since except [i]Global Offensive[/i]. It remains one of the most popular and recognisable defusal maps. 
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28165/]de_piranesi model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.4[/h3]
+- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side
+- Fixed a bug where Army Battlefield spawns were disabled</Description>
+  <IconFileName>de_piranesi.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>
