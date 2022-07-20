@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2512247630</PublishedFileId>
+  <Name>de_prodigy (1.6)</Name>
+  <Description>The 1.6 version of de_prodigy, ported to [i]Holdfast: Nations at War[/i]!
+
+de_prodigy was first added in 1.6, and has appeared in every major CS game since except [i]Global Offensive[/i]. It is considered one of the worst official maps due to it's confusing layout and poor map design, which later games attempted to rectify.
+
+Supports Army Battlefield, Army Assault, and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28166/]de_prodigy model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.7[/h3]
+- Optimised lighting to improve FPS
+- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side 
+- Added some additional colliders around CT to stop sightlines across the map</Description>
+  <IconFileName>de_prodigy.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>
