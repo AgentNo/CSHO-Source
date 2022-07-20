@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2521544540</PublishedFileId>
+  <Name>de_storm (1.6)</Name>
+  <Description>The 1.6 version of de_storm, ported to [i]Holdfast: Nations at War[/i]!
+
+de_storm was first added in 1.3, and has only reappeared in [i]Condition Zero[/i]. Although a second version was created to fix many of the gameplay issues, it was never made official. 
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28167/]de_storm model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.5[/h3]
+- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side</Description>
+  <IconFileName>de_storm.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>
