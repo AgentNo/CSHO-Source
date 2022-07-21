@@ -6998,7 +6998,6 @@ Transform:
   - {fileID: 263544697}
   - {fileID: 1820333758}
   - {fileID: 1790237224}
-  - {fileID: 2105462316}
   - {fileID: 1746686898}
   m_Father: {fileID: 336007925}
   m_RootOrder: 2
@@ -19191,7 +19190,7 @@ Transform:
   m_LocalScale: {x: 0.37396678, y: 0.074351, z: 3.8409946}
   m_Children: []
   m_Father: {fileID: 630346047}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1746686899
 MonoBehaviour:
@@ -23557,67 +23556,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   areaCollider: {fileID: 1914089482}
---- !u!1 &2105462315
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2105462316}
-  - component: {fileID: 2105462318}
-  - component: {fileID: 2105462317}
-  m_Layer: 0
-  m_Name: GameAsset_Functional_StairCollider
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2105462316
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2105462315}
-  m_LocalRotation: {x: 0.26741537, y: -0.65459067, z: 0.26741534, w: 0.6545908}
-  m_LocalPosition: {x: 209.6, y: 34.83, z: 234.71}
-  m_LocalScale: {x: 1, y: 1.1961001, z: 1}
-  m_Children: []
-  m_Father: {fileID: 630346047}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 44.442, y: -90, z: 0}
---- !u!114 &2105462317
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2105462315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8dfd259eaf33b54c8e2e02c73a01708, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShowHierarchy: 0
-  runinUpdate: 1
---- !u!114 &2105462318
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2105462315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1973521858, guid: 10713d75c0c6f024a9e7f47291ae2a83, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gameAssetReference:
-    assetGUID: 7b4180a1c2ee9f94c872409544f9b786
-  gameInstance: {fileID: 0}
 --- !u!1 &2107478048
 GameObject:
   m_ObjectHideFlags: 0
