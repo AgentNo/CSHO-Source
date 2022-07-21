@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2523430502</PublishedFileId>
+  <Name>de_train (1.6)</Name>
+  <Description>The 1.6 version of de_train, ported to [i]Holdfast: Nations at War[/i]!
+
+de_train was first added in the CS beta, and has subsequently appeared in every major game since. It has become a fan favourite and one of the most iconic defuse maps. 
+
+Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Sappers will be unable to build on this map due to the lack of terrain.
+
+This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
+
+[url=https://www.models-resource.com/pc_computer/counterstrike16/model/28170/]de_train model courtesy of ViGamezBoy.[/url]
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.3[/h3]
+- Removed the ladder to the roof above B short
+- Removed mountains in the distance
+- Removed excess terrain
+- Added visblockers to block certain sightlines through walls
+- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side</Description>
+  <IconFileName>de_train.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Fictional</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+  </Tags>
+</WorkshopItemInfo>
