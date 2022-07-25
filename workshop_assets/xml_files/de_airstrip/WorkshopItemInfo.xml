@@ -6,7 +6,7 @@
 
 de_airstrip was a defuse map, first appearing in [i]1.6[/i] and subsequently re-appearing in [i]Condition Zero[/i]. Although unofficial ports exist for later games, it have never received any official support.
 
-Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Supports Army Battlefield, Army Assault, and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
 Sappers will be unable to build on this map due to the lack of terrain.
 
 This map also features working bombsite objectives. To plant a bomb, play as T and hold 'E' on either objective.
@@ -15,14 +15,13 @@ This map also features working bombsite objectives. To plant a bomb, play as T a
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.7[/h3]
-- Removed some lights in the A hangars
-- Added some more visibility blockers through walls around Caves and A site
-- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side</Description>
+[h3]Latest Update - v. 1.0.11[/h3]
+- Fixed bomb interaction text</Description>
   <IconFileName>de_airstrip.png</IconFileName>
   <Tags>
     <string>Maps</string>
     <string>Fictional</string>
+    <string>Army Assault</string>
     <string>Army Battlefield</string>
     <string>Melee Arena</string>
   </Tags>

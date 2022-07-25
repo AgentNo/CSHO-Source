@@ -15,8 +15,11 @@ This map also features working hostage objectives. To capture a hostage, play as
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.6[/h3]
-- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side</Description>
+[h3]Latest Update - v. 1.0.7[/h3]
+- Added Army Assault
+- Fixed issue where background sea did not render on Holdfast v.2.0+
+- Replaced background scenery
+- Removed unused items</Description>
   <IconFileName>cs_estate.png</IconFileName>
   <Tags>
     <string>Maps</string>

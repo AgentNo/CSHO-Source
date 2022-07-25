@@ -15,14 +15,13 @@ This map also features working bombsite objectives. To plant a bomb, play as T a
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.7[/h3]
-- Optimised lighting to improve FPS
-- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side 
-- Added some additional colliders around CT to stop sightlines across the map</Description>
+[h3]Latest Update - v. 1.0.10[/h3]
+- Fixed bomb interaction text</Description>
   <IconFileName>de_prodigy.png</IconFileName>
   <Tags>
     <string>Maps</string>
     <string>Fictional</string>
+    <string>Army Assault</string>
     <string>Army Battlefield</string>
     <string>Melee Arena</string>
   </Tags>

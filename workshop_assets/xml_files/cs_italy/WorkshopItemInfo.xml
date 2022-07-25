@@ -6,7 +6,7 @@
 
 cs_italy is a hostage rescue map, first appearing in the 2000 beta and subsequently re-appearing in every game since. It remains one of the most popular and iconic hostage rescue maps.
 
-Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Supports Army Battlefield, Army Assault, and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
 Sappers will be unable to build on this map due to the lack of terrain.
 
 This map also features working hostage objectives. To capture a hostage, play as CT and hold 'E' on the objective.
@@ -15,9 +15,9 @@ This map also features working hostage objectives. To capture a hostage, play as
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.8[/h3]
-- Attempted a fix for light optimisation
-- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side</Description>
+[h3]Latest Update - v. 1.0.10[/h3]
+- Added LOD culling to many lights to improve performance
+- Removed some excess lights</Description>
   <IconFileName>cs_italy.png</IconFileName>
   <Tags>
     <string>Maps</string>

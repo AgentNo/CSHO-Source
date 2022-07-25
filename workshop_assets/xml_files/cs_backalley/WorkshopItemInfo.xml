@@ -15,10 +15,11 @@ This map also features working hostage objectives. To capture a hostage, play as
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.8[/h3]
-- Added Army Assault
-- Adjusted brightness of some lights near CT spawn
-- Removed an unused light asset</Description>
+[h3]Latest Update - v. 1.0.11[/h3]
+- Removed a redundant light near CT Start
+- Reduced the intensity of certain lights in T Start 
+- Added LOD culling to all lights to attempt improvement at performance
+- Reduced base terrain size </Description>
   <IconFileName>cs_backalley.png</IconFileName>
   <Tags>
     <string>Maps</string>

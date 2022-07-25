@@ -6,7 +6,7 @@
 
 cs_assault was one of the first hostage rescue maps, first appearing in the 2000 beta and subsequently re-appearing in [i]1.6[/i], [i]Condition Zero[/i], [i]Source[/i], and [i]Global Offensive[/i]. Although it has been balanced in later games, it is still very T-sided - but remains a firm fan favourite.
 
-Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Supports Army Battlefield, Army Assault, and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
 Sappers will be unable to build on this map due to the lack of terrain.
 
 This map also features working hostage objectives. To capture a hostage, play as CT and hold 'E' on the objective.
@@ -15,8 +15,13 @@ This map also features working hostage objectives. To capture a hostage, play as
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.1.9[/h3]
-- Added Army Assault</Description>
+[h3]Latest Update - v. 1.1.13[/h3]
+This update mostly focusses on attempting tp optimise lighting and performance. As such, some experimental changes have been implemented:
+
+- Removed the lighting on Overpass
+- Added LOD culling to certain lights that are usually hidden from view, such as ramp and CT Start
+- Adjusted the radius and intensity of most lights in the warehouse
+- Removed shadow casting from lights that are too out of reach to actually cast shadows</Description>
   <IconFileName>cs_assault.png</IconFileName>
   <Tags>
     <string>Maps</string>

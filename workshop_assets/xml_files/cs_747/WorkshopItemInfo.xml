@@ -6,7 +6,7 @@
 
 cs_747 was one of the first hostage rescue maps, first appearing in the 2000 beta and subsequently re-appearing in [i]1.6[/i] and [i]Condition Zero[/i]. Although unofficial ports exist for later games, it have never received an official port.
 
-Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Supports Army Battlefield, Army Assault, and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
 Sappers will be unable to build on this map due to the lack of terrain.
 
 This map also features working hostage objectives. To capture a hostage, play as CT and hold 'E' on the objective.
@@ -15,12 +15,9 @@ This map also features working hostage objectives. To capture a hostage, play as
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.1.12[/h3]
-- Added a missing light to the right of CT Start
-- Added a missing collider near lower CT exit to runway
-- Added Army Assault 
-- Added clipping to CT stairs to prevent zoomies
-- Fixed multiple collision issues on crates around the map</Description>
+[h3]Latest Update - v. 1.1.13[/h3]
+- Fixed jagged areas on the CT Stairs
+- Experimental baked lighting to investigate potential performance improvements </Description>
   <IconFileName>cs_747.png</IconFileName>
   <Tags>
     <string>Maps</string>

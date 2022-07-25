@@ -4,9 +4,9 @@
   <Name>cs_havana (1.6)</Name>
   <Description>The 1.6 version of cs_havana, ported to [i]Holdfast: Nations at War[/i]!
 
-cs_havana was a hostage rescue map, first appearing in the 2000 beta and subsequently re-appearing in [i]1.6[/i], [i]Condition Zero[/i], and [i]Source[/i]. It was one of the few maps that included dynamic elements, making it interesting to play.
+cs_havana was a hostage rescue map, first appearing in the 2000 beta and subsequently re-appearing in [i]1.6[/i], [i]Condition Zero[/i], and [i]Source[/i]. It was one of the few maps that included dynamic elements such as randomly opened and closed doors, making it interesting to play.
 
-Supports Army Battlefield and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
+Supports Army Battlefield, Army Assault, and Melee Arena. This map is best suited to smaller populations, the recommended configs available in this repository: https://github.com/AgentNo/holdfast-server-configs .
 Sappers will be unable to build on this map due to the lack of terrain.
 
 This map also features working hostage objectives. To capture a hostage, play as CT and hold 'E' on the objective.
@@ -15,10 +15,11 @@ This map also features working hostage objectives. To capture a hostage, play as
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.9[/h3]
-- Optimised lighting to improve FPS
-- Removed some excess props around the map
-- Reduced the default amount of carpenters on Melee Arena from 6 to 3 per side</Description>
+[h3]Latest Update - v. 1.0.11[/h3]
+- Removed shadows from certain lights
+- Adjusted the intensity of all lights around the maps
+- Removed a duplicate light
+- Added LOD culling to improve lighting performance</Description>
   <IconFileName>cs_havana.png</IconFileName>
   <Tags>
     <string>Maps</string>
