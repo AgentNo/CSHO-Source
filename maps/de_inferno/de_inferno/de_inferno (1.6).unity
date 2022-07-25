@@ -3043,7 +3043,7 @@ MonoBehaviour:
   allowedFactionInteraction: 1
   allowedClassesInteraction: 060110120b0a0908
   interactableActionText: Plant Bomb
-  interactingBroadcastedNotificationTextFormat: '{0} is planting the bomb at A! 30
+  interactingBroadcastedNotificationTextFormat: '{0} is planting the bomb at A! 45
     seconds to detonation.'
   interactableObjectColliderBounds: {x: 2, y: 2, z: 2}
   interactionLabelPosition: {x: 0, y: 0, z: 0}
@@ -15477,7 +15477,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ShowHierarchy: 0
-  runinUpdate: 1
+  runinUpdate: 0
 --- !u!114 &1281567832
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19932,7 +19932,7 @@ MonoBehaviour:
   allowedFactionInteraction: 1
   allowedClassesInteraction: 060110120b0a0908
   interactableActionText: Plant Bomb
-  interactingBroadcastedNotificationTextFormat: '{0} is planting the bomb at B! 30
+  interactingBroadcastedNotificationTextFormat: '{0} is planting the bomb at B! 45
     seconds to detonation.'
   interactableObjectColliderBounds: {x: 2, y: 2, z: 2}
   interactionLabelPosition: {x: 0, y: 0, z: 0}
