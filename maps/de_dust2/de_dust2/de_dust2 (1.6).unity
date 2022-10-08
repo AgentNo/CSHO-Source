@@ -2587,7 +2587,7 @@ GameObject:
   - component: {fileID: 294303320}
   - component: {fileID: 294303319}
   m_Layer: 0
-  m_Name: GameAsset_Functional_GameObjective_InteractableObject_TriggerBox
+  m_Name: BombA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9261,10 +9261,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   requiresOcean: 0
+  limitedOcean: 0
+  limitedOceanPosition: {x: 0, y: 0, z: 0}
+  limitedOceanRotation: {x: 0, y: 0, z: 0}
   allowSwimmingOnLand: 1
   cameraViewDistance: 3500
   depthOfFieldFocusPoint: 300
   rangeToShowBorderNotification: 150
+  fogMaxDistance: 750
+  customLodObjects: []
 --- !u!4 &991322383
 Transform:
   m_ObjectHideFlags: 0
@@ -10297,7 +10302,7 @@ GameObject:
   - component: {fileID: 1137382880}
   - component: {fileID: 1137382879}
   m_Layer: 0
-  m_Name: GameAsset_Functional_GameObjective_InteractableObject_TriggerBox (1)
+  m_Name: BombB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10334,8 +10339,7 @@ MonoBehaviour:
   allowedFactionInteraction: 1
   allowedClassesInteraction: 060110120b0a0908
   interactableActionText: Plant Bomb
-  interactingBroadcastedNotificationTextFormat: '{0} is planting the bomb at B! 45
-    seconds to detonation.'
+  interactingBroadcastedNotificationTextFormat: 
   interactableObjectColliderBounds: {x: 2, y: 2, z: 2}
   interactionLabelPosition: {x: 0, y: 0, z: 0}
 --- !u!114 &1137382880
