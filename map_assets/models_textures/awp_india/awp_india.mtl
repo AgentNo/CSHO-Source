@@ -1,0 +1,96 @@
+# in_c02
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_0.tga
+
+# in_19
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_1.tga
+
+# in_27
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_2.tga
+
+# in_24
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_3.tga
+
+# in_19b
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_4.tga
+
+# in_24d
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_5.tga
+
+# in_24c
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_6.tga
+
+# in_c02a
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_7.tga
+
+# in_19c
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_8.tga
+
+# in_door02
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_9.tga
+
+# in_door01
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_10.tga
+
+# awp_india
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_11.tga
+
+# c2a3compactor1
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_12.tga
+
+# black
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_13.tga
+
+# {in_jail01
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_14.tga
+
+# white
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd awp_india_material_15.tga
+

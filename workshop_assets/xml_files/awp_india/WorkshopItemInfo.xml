@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2909706441</PublishedFileId>
+  <Name>awp_india (1.6)</Name>
+  <Description>The 1.6 version of awp_india, ported to [i]Holdfast: Nations at War[/i]!
+
+awp_india is an aim map for 1.6 - it was originally designed and released by bobo (Johan Fasting). Its simplicity saw it being replicated across all major Counter-Strike versions.
+
+Supports Army Battlefield, Army Assault, and Melee Arena. Perfect for a lobby map.
+Sappers will be unable to build on this map due to the lack of terrain.
+
+[url=https://tsarvar.com/en/maps/counter-strike-1.6/awp_india]awp_india map courtesy of bobo (Johan Fasting).[/url] Ported to Holdfast by Spammy McJunkmail.
+
+Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
+
+[h3]Latest Update - v. 1.0.2[/h3]
+- Added workshop icon
+- Added loading screen and spawn menu images</Description>
+  <IconFileName>awp_india.png</IconFileName>
+  <Tags>
+    <string>Maps</string>
+    <string>Meme</string>
+    <string>Army Assault</string>
+    <string>Army Battlefield</string>
+    <string>Melee Arena</string>
+    <string>British</string>
+    <string>French</string>
+    <string>Prussian</string>
+    <string>Russian</string>
+    <string>Italian</string>
+  </Tags>
+</WorkshopItemInfo>
