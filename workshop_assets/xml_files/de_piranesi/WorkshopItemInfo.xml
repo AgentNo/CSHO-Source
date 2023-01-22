@@ -15,8 +15,9 @@ This map also features working bombsite objectives. To plant a bomb, play as T a
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.6[/h3]
-- Fixed bomb interaction text</Description>
+[h3]Latest Update - v. 1.0.8[/h3]
+- Compatibility update for Alexaroth's CS mod
+- Fixed some mountains intersecting with the floor</Description>
   <IconFileName>de_piranesi.png</IconFileName>
   <Tags>
     <string>Maps</string>
