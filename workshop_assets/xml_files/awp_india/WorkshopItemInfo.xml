@@ -9,16 +9,16 @@ awp_india is an aim map for 1.6 - it was originally designed and released by bob
 Supports Army Battlefield, Army Assault, and Melee Arena. Perfect for a lobby map.
 Sappers will be unable to build on this map due to the lack of terrain.
 
-[url=https://tsarvar.com/en/maps/counter-strike-1.6/awp_india]awp_india map courtesy of bobo (Johan Fasting).[/url] Ported to Holdfast by Spammy McJunkmail.
+[url=https://tsarvar.com/en/maps/counter-strike-1.6/awp_india]awp_india map courtesy of bobo (Johan Fasting).[/url] Thanks to AGS Harper for the CSHO logo.
 
 Part of the 87th's Counter-Strike: Holdfast Offensive collection. Join us today - https://discord.gg/dakvCACDSF
 
-[h3]Latest Update - v. 1.0.2[/h3]
-- Added workshop icon
-- Added loading screen and spawn menu images</Description>
+[h3]Latest Update - v. 1.0.3[/h3]
+- Updated mod icon</Description>
   <IconFileName>awp_india.png</IconFileName>
   <Tags>
     <string>Maps</string>
+    <string>Fictional</string>
     <string>Meme</string>
     <string>Army Assault</string>
     <string>Army Battlefield</string>
